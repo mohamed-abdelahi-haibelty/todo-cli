@@ -1,4 +1,3 @@
-// storage.go
 package main
 
 import (

@@ -1,4 +1,3 @@
-// todo.go
 package main
 
 import (
